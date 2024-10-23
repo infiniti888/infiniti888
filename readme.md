@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [code for LLM and NLP](https://github.com/infiniti888/Aprendizajes-NLP-varios)
 
-- 🌱 I’m currently learning **using Ollama in different programming languages**
+- 🌱 I’m currently learning **to use LLM (Ollama) in different programming languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
