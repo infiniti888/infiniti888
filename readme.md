@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isaac Reixach</h1>
 <h3 align="center">An IT teacher from Spain</h3>
 
-- 🔭 I’m currently working on [LLM and NLP](https://github.com/infiniti888/Aprendizajes-NLP-varios)
+- 🔭 I’m currently working on [code for LLM and NLP](https://github.com/infiniti888/Aprendizajes-NLP-varios)
 
-- 🌱 I’m currently learning **Ollama**
+- 🌱 I’m currently learning **using Ollama in different programming languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
